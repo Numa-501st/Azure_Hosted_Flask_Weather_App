@@ -53,12 +53,12 @@ _For those from London, an alert will be triggered when when the weather reaches
 
 Implementation Guide
 
-    Develop a basic web application that uses weather APIs. (Python, Flask, Requests, SQLAlchemy or can you language of choice)  
-    Containerize the application. (Docker)
-    Publish the container image to Azure Container Registry. (Azure CLI and AZ Container Registry)
-    Test the application using Azure Container Instance by pulling image from ACR. (AZ Container Instance)
-    Implement an Azure Function to send alerts when a specified weather threshold is met. (AZ Functions App and Python)
-    Integrate Azure Function with your web application. (AZ Functions)
-    Create an Azure App Service Web App and pull image from ACR. (Azure App Service)
-    Setup Application insights and Azure monitor
+   1) Develop a basic web application that uses weather APIs. (Python, Flask, Requests, SQLAlchemy or can you language of choice)  
+   2) Containerize the application. (Docker)
+   3) Publish the container image to Azure Container Registry. (Azure CLI and AZ Container Registry)
+   4) Test the application using Azure Container Instance by pulling image from ACR. (AZ Container Instance)
+   5) Implement an Azure Function to send alerts when a specified weather threshold is met. (AZ Functions App and Python)
+   6) Integrate Azure Function with your web application. (AZ Functions)
+   7) Create an Azure App Service Web App and pull image from ACR. (Azure App Service)
+   8) Setup Application insights and Azure monitor
 
