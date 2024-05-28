@@ -53,7 +53,7 @@ _For those from London, an alert will be triggered when when the weather reaches
 
 Implementation Guide
 
-   1) Develop a basic web application that uses weather APIs. (Python, Flask, Requests, SQLAlchemy or can you language of choice)  
+   1) Develop a basic web application that uses weather APIs. (HTML, Python, Flask, Requests, SQLAlchemy or can use language of choice)  
    2) Containerize the application. (Docker)
    3) Publish the container image to Azure Container Registry. (Azure CLI and AZ Container Registry)
    4) Test the application using Azure Container Instance by pulling image from ACR. (AZ Container Instance)
