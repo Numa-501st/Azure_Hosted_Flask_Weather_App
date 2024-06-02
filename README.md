@@ -39,7 +39,7 @@ _For those from London, an alert will be triggered when when the weather reaches
 
 ### Container Instances (Test Env)
 <div align=center margin= auto> 
-  <img src="images/azure_container_image.png"  width=80%>
+  <img src="images/azure_docker_container_image.png"  width=80%>
 </div>
 
 ### Azure App Service: Web App (Prod)
